@@ -1,0 +1,15 @@
+# Ignore IDE config directories
+.idea/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Ignore configuration
+.env
+
+# Keep all gitkeeps
+!**/.gitkeep
+
+# Ignore windows image previews
+Thumbs.db
