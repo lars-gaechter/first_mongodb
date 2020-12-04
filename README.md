@@ -1,2 +1,2 @@
 # first_mongodb
-Node.js and MongoDB
+Node.js, MongoDB and TypeScript
